@@ -11,3 +11,31 @@
 .statusOffline {
     background-color: red;
 }
+
+.friendList {
+    width: 470px;
+    margin:30px auto;
+    border: 1px solid rgb(196, 178, 178);
+    border-radius: 5px;
+    background-color: #15ebeb;
+    box-shadow: 0 10px 20px 5px rgba(0, 0, 0, .8);
+}
+.item {
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    box-shadow: 0 0 1em;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+
+.avatar {
+    border-radius: 10px;
+    margin: 10px;
+}
+.name {
+    font-size: x-large;
+    font-weight: 700;
+    color: rgb(73, 73, 73);
+}

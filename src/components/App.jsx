@@ -24,5 +24,5 @@ export const App = () => {
       <FriendList friends={friends} />;
 
 </>
-  );
+  )
   };
