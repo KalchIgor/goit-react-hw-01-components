@@ -1,49 +1,51 @@
-ul {
+ul, li {
     list-style: none;
+ padding: 0px;
 }
 
+
 .statistics {
-  width: 450px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 40px;
-  border: 1px solid rgb(196, 178, 178);
+    width: 470px;
+    margin: 40px auto;
+    border: 1px solid rgb(196, 178, 178);
+    box-shadow: 0 10px 20px 5px rgba(0, 0, 0, .8);
 }
 
 .title {
-  font-size: x-large;
-  font-weight: 700;
-  color: rgb(73, 73, 73);
-  text-align: center;
-  margin-top: 30px;
-  margin-bottom: 24px;
+    font-size: x-large;
+    font-weight: 700;
+    color: rgb(73, 73, 73);
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 24px;
 }
 
 .statList {
-  height: 60px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-left: 24px;
-  margin-right: 24px;
-  margin-bottom: 24px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 24px;
 }
 
 .item {
-  width: 70px;
-  border: 1px solid rgb(196, 178, 178);
-  background-color: rgb(252, 244, 244);
+    width: 70px;
+    border: 1px solid rgb(196, 178, 178);
+    background-color: rgb(252, 244, 244);
 }
 
 .label {
-  margin-top: 5px;
-  margin-bottom: 10px;
-  display: flex;
-  justify-content: space-evenly;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .percentage {
-  margin-bottom: 5px;
-  display: flex;
-  justify-content: space-evenly;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-evenly;
+
 }
