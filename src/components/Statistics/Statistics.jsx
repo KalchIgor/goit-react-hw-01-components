@@ -1,4 +1,4 @@
-import React from 'react';
+
 import PropTypes from 'prop-types';
 import css from './Statistics.module.css';
 
@@ -10,8 +10,8 @@ const createColor = () => {
     Math.round(Math.random() * 255) +
     ',' +
     Math.round(Math.random() * 255) +
-    ',' +
-    0.5 +
+    ',' +0.9 +
+    
     ')';
 
   return color;
