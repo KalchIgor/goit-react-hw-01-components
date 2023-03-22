@@ -10,7 +10,7 @@ const createColor = () => {
     ',' +
     Math.round(Math.random() * 255) +
     ',' +
-    0.5 +
+    0.3 +
     ')';
 
   return color;
