@@ -13,7 +13,7 @@
 }
 
 .friendList {
-    width: 470px;
+    max-width: 470px;
     margin:30px auto;
     border: 1px solid rgb(196, 178, 178);
     border-radius: 5px;

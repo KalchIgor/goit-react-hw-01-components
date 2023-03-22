@@ -5,7 +5,7 @@ ul, li {
 
 
 .statistics {
-    width: 470px;
+    max-width: 470px;
     margin: 40px auto;
     border: 1px solid rgb(196, 178, 178);
     box-shadow: 0 10px 20px 5px rgba(0, 0, 0, .8);
