@@ -15,6 +15,7 @@
     border: 1px solid white;
     border-radius: 10px;
     text-align: center;
+    box-shadow: 0 10px 20px 5px rgba(0, 0, 0, .6);
 }
 
 .avatar {
@@ -52,6 +53,8 @@
     background-color: rgb(252, 244, 244);
     padding-left: 0;
     border-radius: 10px;
+    box-shadow: 0 10px 20px 5px rgba(0, 0, 0, .6);
+ 
 }
 
 .lists {

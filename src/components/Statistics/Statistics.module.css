@@ -36,6 +36,7 @@ ul, li {
     width: 70px;
     border: 1px solid rgb(196, 178, 178);
     border-radius: 5px;
+    box-shadow: 0 10px 20px 5px rgba(0, 0, 0, .6);
 }
 
 .label {
